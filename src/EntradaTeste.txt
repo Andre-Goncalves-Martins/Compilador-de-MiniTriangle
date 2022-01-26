@@ -1,0 +1,9 @@
+program andre; 
+begin
+ramon := 2;
+if ramon < 3.3 then
+marlon := 3.3;
+while true do
+leon := 2*4;
+end.
+! Comentario
